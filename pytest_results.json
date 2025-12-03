@@ -1,0 +1,5 @@
+{
+    "rc": 0,
+    "stdout": "============================= test session starts ==============================\nplatform linux -- Python 3.11.2, pytest-7.2.1, pluggy-1.0.0+repack\nrootdir: /tmp/Sim_LLM_benchmark/agent_env/agent_env_user_qwen3:14b_10_7/dummy_agent\ncollected 1 item\n\ntest_app.py .                                                            [100%]\n\n============================== 1 passed in 0.00s ===============================\n",
+    "stderr": ""
+}
