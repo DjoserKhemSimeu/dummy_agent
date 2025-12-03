@@ -1,5 +1,4 @@
 def addition(a, b):
-    # BUG : utilisation de "c" au lieu de "b"
-    return a + c
+    return a + b
 
-print("Résultat :", addition(2, 3))
+print("Résultat:", addition(2, 3))
