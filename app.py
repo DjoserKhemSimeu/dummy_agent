@@ -1,5 +1,3 @@
 def addition(a, b):
-
+    c = b  # Define variable c
     return a + c
-
-print("Résultat :", addition(2, 3))
