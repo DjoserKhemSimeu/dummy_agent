@@ -1,0 +1,5 @@
+{
+    "rc": 2,
+    "stdout": "\n==================================== ERRORS ====================================\n_________________________ ERROR collecting test_app.py _________________________\ntest_app.py:2: in <module>\n    import app\napp.py:5: in <module>\n    print(\"R\u00e9sultat :\", addition(2, 3))\napp.py:3: in addition\n    return a + c\nE   NameError: name 'c' is not defined\n=========================== short test summary info ============================\nERROR test_app.py - NameError: name 'c' is not defined\n!!!!!!!!!!!!!!!!!!!! Interrupted: 1 error during collection !!!!!!!!!!!!!!!!!!!!\n1 error in 0.02s\n",
+    "stderr": ""
+}
