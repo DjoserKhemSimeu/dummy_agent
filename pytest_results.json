@@ -1,0 +1,5 @@
+{
+    "rc": 4,
+    "stdout": "",
+    "stderr": "/usr/lib/python3/dist-packages/_pytest/config/__init__.py:331: PluggyTeardownRaisedWarning: A plugin raised an exception during an old-style hookwrapper teardown.\nPlugin: helpconfig, Hook: pytest_cmdline_parse\nUsageError: usage: pytest [options] [file_or_dir] [file_or_dir] [...]\npytest: error: unrecognized arguments: --app.py\n  inifile: None\n  rootdir: /home/nvidia/Documents/Sim_LLM_benchmark/agent_env/agent_env_user_gemma3:12b_100_92_0/dummy_agent\nFor more information see https://pluggy.readthedocs.io/en/stable/api_reference.html#pluggy.PluggyTeardownRaisedWarning\n  config = pluginmanager.hook.pytest_cmdline_parse(\nERROR: usage: pytest [options] [file_or_dir] [file_or_dir] [...]\npytest: error: unrecognized arguments: --app.py\n  inifile: None\n  rootdir: /home/nvidia/Documents/Sim_LLM_benchmark/agent_env/agent_env_user_gemma3:12b_100_92_0/dummy_agent\n\n"
+}
