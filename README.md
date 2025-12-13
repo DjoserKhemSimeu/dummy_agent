@@ -1,7 +1,7 @@
-# demo-error-repo
+# demo-error-repository
 
-Petit dépôt de démonstration contenant une erreur volontaire dans le code,
-ainsi qu'une issue correspondante.
+Pettit dépôt de démonstration contenant une erreur volontaire dans le code,
+asni qu'une issue correspondante.
 
 ## Fichiers
 
@@ -13,3 +13,5 @@ ainsi qu'une issue correspondante.
 ```bash
 pip install -r requirements.txt
 python app.py
+
+```
