@@ -1,0 +1,5 @@
+{
+    "rc": 0,
+    "stdout": "============================= test session starts ==============================\nplatform linux -- Python 3.12.3, pytest-7.4.4, pluggy-1.4.0\nrootdir: /home/nvidia/Documents/Sim_LLM_benchmark/agent_env/agent_env_user_qwen3:14b_50_10_9/dummy_agent\ncollected 1 item\n\ntest_app.py .                                                            [100%]\n\n============================== 1 passed in 0.01s ===============================\n",
+    "stderr": ""
+}
