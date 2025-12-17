@@ -1,5 +1,5 @@
 def addition(a, b):
 
-    return a + c
+    return a + b
 
-print("Résultat:", addition(2, 3))
+print("Resultat:", addition(2, 3))
