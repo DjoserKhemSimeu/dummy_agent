@@ -1,0 +1,2 @@
+This is a dummy file.
+Added a test case to verify its existence.
