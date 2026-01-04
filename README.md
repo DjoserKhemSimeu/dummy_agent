@@ -1,6 +1,6 @@
 # demo-error-repo
 
-Petit dépôt de démonstration contenant une erreur volontaire dans le code,
+Petit dépôt de démonstration 
 ainsi qu'une issue correspondante.
 
 ## Fichiers
